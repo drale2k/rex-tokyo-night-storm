@@ -1,0 +1,29 @@
+# Tokyo Night Storm
+# Based on Tokyo Night Storm, adjusted for better contrast
+# Github: https://github.com/drale2k/rex-tokyo-night-storm
+# X: https://x.com/kingdrale
+
+background = #242738
+foreground = #e2e6fa
+cursor-color = #bdc7ff
+cursor-text = #242738
+selection-background = #485274
+selection-foreground = #ffffff
+
+# ANSI palette
+palette = 0=#363b54
+palette = 1=#ff8fa3
+palette = 2=#a6db86
+palette = 3=#f2cb8d
+palette = 4=#a8b9ff
+palette = 5=#cbb2ff
+palette = 6=#91dce8
+palette = 7=#cbd1e9
+palette = 8=#929bbd
+palette = 9=#ffadba
+palette = 10=#c0eda3
+palette = 11=#ffe0a8
+palette = 12=#c4d0ff
+palette = 13=#e0cbff
+palette = 14=#b1f0f5
+palette = 15=#f4f6ff
