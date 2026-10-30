@@ -7,3 +7,7 @@ Slightly modified color scheme from original Tokyo Night palette for improved co
 ## Installation
 1. Open Rex -> Settings
 2. Themes -> Import
+
+
+## Reach out
+Reach out to me at https://x.com/kingdrale
